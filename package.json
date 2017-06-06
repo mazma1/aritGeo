@@ -1,0 +1,25 @@
+{
+  "name": "arit-geo",
+  "version": "1.0.0",
+  "description": "A function that test for arithmetic and geometric arrays",
+  "main": "index.js",
+  "directories": {
+    "test": "spec"
+  },
+  "scripts": {
+    "test": "jasmine spec/aritGeo-spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazma1/aritGeo.git"
+  },
+  "author": "Mary Mazi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mazma1/aritGeo/issues"
+  },
+  "homepage": "https://github.com/mazma1/aritGeo#readme",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
