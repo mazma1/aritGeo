@@ -1,3 +1,7 @@
+'use strict';
+
+const aritGeo = require('../app/index.js').aritGeo; //Added to address 'aritGeo is not found' error
+
 describe("Determine the sequence of an array of numbers: ", function() {
 
     describe("Case for an empty array", function() {
